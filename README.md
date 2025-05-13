@@ -9,7 +9,7 @@ I'll create a comprehensive Library Management System database that tracks books
 - Library staff management
 
 ## Database Schema (ERD)
-![ER Diagram](https://i.imgur.com/JQ7X8vO.png) *(Conceptual diagram - actual implementation in SQL below)*
+
 
 - CHECK dbImplementation.sql for complete project code
 
